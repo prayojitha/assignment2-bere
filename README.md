@@ -5,3 +5,21 @@
 **Hyderabadi biryani** is one of the India's most popular types of biryani. It incorporates goat meat or chicken that is marinated and cooked along with the long grained rice and is seasoned with coconut, saffron and selected spices.
 I love this dish because of it's **taste** and **aroma**.
 
+***
+How To Make Biryani
+
+1.  Prepare Chicken curry
+
+    1.   Prepare biryani masala and marinate chicken
+  
+    2.   Cook the chicken curry. 
+  
+2.   Parboil rice
+
+    1.   Bring a pot of water to boil rice.Drain the remaining water and set it aside.
+  
+3.   Bring it all together for final steam.
+
+    1.   Layer half of rice, all of chicken and then remaining rice on top.
+
+
