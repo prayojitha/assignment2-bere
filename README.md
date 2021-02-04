@@ -21,5 +21,19 @@ How To Make Biryani
 3.   Bring it all together for final steam.
 
     1.   Layer half of rice, all of chicken and then remaining rice on top.
+   
+ *  Biryani Spices
+    *   For parboiled rice
+        *   cardomom
+        *   bay leaves
+        *   cloves
+        *   star anise
+    *   For chicken
+        *   garam masala
+        *   cumin powder
+        *   paprika
+        *   coriander
+        *   turmeric
+        
 
 
