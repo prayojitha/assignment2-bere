@@ -57,9 +57,24 @@ How To Make Biryani
 >“Keep calm and carry on.” — *Winston Churchill*
 
 
+---
+### Code Fencing
 
+Go - Go is a general-purpose language designed with systems programming in mind. It is strongly typed and garbage-collected and has explicit support for concurrent programming. Programs are constructed from packages, whose properties allow efficient management of dependencies.
 
+[Go](https://golang.org/ref/spec#:~:text=Go%20is%20a%20general%2Dpurpose,allow%20efficient%20management%20of%20dependencies.)
 
+```
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello, world.")
+}
+
+```
+[Go code](https://golang.org/doc/code.html)
 
 
 
