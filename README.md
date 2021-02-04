@@ -49,6 +49,8 @@ How To Make Biryani
 |Black Sea, Asia|  4|500$|
 |Eiffel Tower, Italy|3|300$|
 |Taj Mahal, India| 3| 250$|
+<br> 
+
 ![Maldives](images/maldives.jpg)
 <br>
 
