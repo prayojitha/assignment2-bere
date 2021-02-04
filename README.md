@@ -51,8 +51,11 @@ How To Make Biryani
 |Taj Mahal, India| 3| 250$|
 ![Maldives](/maldives.jpg)
 <br>
+
 ![eiffel](/eiffel.jpg)
+
 <br>
+
 ![Taj Mahal](/TajMahal.jpg)
 
 ### Pithy quotes
