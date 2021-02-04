@@ -50,6 +50,12 @@ How To Make Biryani
 |Eiffel Tower, Italy|3|300$|
 |Taj Mahal, India| 3| 250$|
 
+### Pithy quotes
+
+>"Get busy living or get busy dying." — *Stephen King*
+
+>“Keep calm and carry on.” — *Winston Churchill*
+
 
 
 
