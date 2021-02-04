@@ -43,12 +43,15 @@ How To Make Biryani
  #### Tables
  Here I will be listing some of the best places to visit throught the world:
 
- |Location| Hours to spend| Expenditures|
+|Location| Hours to spend| Expenditures|
 |:---|:---:|---:|
 |Maldives Island| 5|1000$|
 |Black Sea, Asia|  4|500$|
 |Eiffel Tower, Italy|3|300$|
 |Taj Mahal, India| 3| 250$|
+
+
+
 
 
 
