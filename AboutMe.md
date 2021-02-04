@@ -4,3 +4,5 @@
 After my graduation I would like to work as a data analyst. I am interested in working on data related roles like data engineer, machine learning. 
 I like listening to music, reading novels, sketching. 
 
+![music my favourite hobby](music.jpg)
+
